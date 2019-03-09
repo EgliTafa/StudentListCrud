@@ -1,0 +1,9 @@
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\bin\Debug\StudentsListCRUD.exe.config
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\bin\Debug\StudentsListCRUD.exe
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\bin\Debug\StudentsListCRUD.pdb
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\obj\Debug\StudentsListCRUD.csprojResolveAssemblyReference.cache
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\obj\Debug\StudentsListCRUD.Form1.resources
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\obj\Debug\StudentsListCRUD.Properties.Resources.resources
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\obj\Debug\StudentsListCRUD.csproj.GenerateResource.Cache
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\obj\Debug\StudentsListCRUD.exe
+c:\users\egli\documents\visual studio 2013\Projects\StudentsListCRUD\StudentsListCRUD\obj\Debug\StudentsListCRUD.pdb
